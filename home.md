@@ -1,11 +1,4 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://assets.adobedtm.com/94115e77aa3d/36d651066521/launch-070e89f47b0a.min.js" async></script>
-    <link rel="stylesheet" href="https://marinazub.github.io/simplewebpage/css.html">
-    <title>Your Simple Website</title>
-    <script src="https://assets.adobedtm.com/94115e77aa3d/36d651066521/launch-070e89f47b0a.min.js" async></script>
-</head>
+
 <body>
     <header>
         <nav>
